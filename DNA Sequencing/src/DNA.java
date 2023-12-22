@@ -15,7 +15,7 @@ In between, each additional codon is a sequence of three nucleotides.
 
 */
 
-import javax.print.DocFlavor.STRING;
+
 
 public class DNA {
   
